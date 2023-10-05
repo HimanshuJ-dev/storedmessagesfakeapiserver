@@ -1,5 +1,4 @@
-{
-"messages" : [
+[
   {
   "username" : "first user",
   "useremail" : "first@mail.com",
@@ -7,4 +6,3 @@
   "userid" : "u1234567890"
   },
 ]
-}
