@@ -1,5 +1,4 @@
 {
-  "stored_messages": [
     {
       "id": 1,
       "username": "first user",
@@ -7,5 +6,4 @@
       "usermessage": "you are awesome",
       "userid": "u1234567890"
     }
-  ]
 }
